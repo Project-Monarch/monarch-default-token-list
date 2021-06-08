@@ -1,6 +1,6 @@
 {
   "name": "@lootswap/default-token-list",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "◦ The lootswap default token list",
   "main": "build/lootswap-default.tokenlist.json",
   "scripts": {
