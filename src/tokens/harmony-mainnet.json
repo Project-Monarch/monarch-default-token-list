@@ -229,7 +229,7 @@
     "symbol": "bscMatic",
     "name": "bscMatic Token",
     "decimals": 18,
-    "logoURI": "https://lootswap.finance/tokens/bscMATIC.png"
+    "logoURI": "https://lootswap.finance/tokens/bscMatic.png"
   },
   {
     "chainId": 1666600000,
@@ -237,6 +237,6 @@
     "symbol": "bscWISB",
     "name": "bscWise Token",
     "decimals": 18,
-    "logoURI": "https://lootswap.finance/tokens/WISB.png"
+    "logoURI": "https://lootswap.finance/tokens/bscWISB.png"
   }
 ]
