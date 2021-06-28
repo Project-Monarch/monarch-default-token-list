@@ -1,22 +1,22 @@
 {
-  "name": "@monarch/default-token-list",
+  "name": "@project-monarch/default-token-list",
   "version": "2.4.0",
-  "description": "◦ The monarch default token list",
-  "main": "build/monarch-default.tokenlist.json",
+  "description": "◦ The project-monarch default token list",
+  "main": "build/project-monarch-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/monarch-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/project-monarch-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/monarch-default.tokenlist.json"
+    "build/project-monarch-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Project-Monarch/monarch-default-token-list.git"
+    "url": "git+https://github.com/Project-Monarch/project-monarch-default-token-list.git"
   },
   "keywords": [
-    "project-monarch",
+    "project-project-monarch",
     "default",
     "token",
     "list"
@@ -24,9 +24,9 @@
   "author": "Project Monarch",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Project-Monarch/monarch-default-token-list/issues"
+    "url": "https://github.com/Project-Monarch/project-monarch-default-token-list/issues"
   },
-  "homepage": "https://github.com/Project-Monarch/monarch-default-token-list#readme",
+  "homepage": "https://github.com/Project-Monarch/project-monarch-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
